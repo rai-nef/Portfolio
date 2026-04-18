@@ -1236,6 +1236,9 @@ body {
     .book-list {
         grid-template-columns: repeat(4, 1fr);
     }
+    .special-projects-section .book-list {
+        grid-template-columns: repeat(5, 1fr);
+    }
 }
 
 .book-item {
